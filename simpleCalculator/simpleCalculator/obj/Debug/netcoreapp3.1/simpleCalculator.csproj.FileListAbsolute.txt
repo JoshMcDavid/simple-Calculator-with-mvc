@@ -1,0 +1,17 @@
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.exe
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.deps.json
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.runtimeconfig.json
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.runtimeconfig.dev.json
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.dll
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\bin\Debug\netcoreapp3.1\simpleCalculator.pdb
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.csproj.AssemblyReference.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.Form1.resources
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.Properties.Resources.resources
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.csproj.GenerateResource.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.AssemblyInfo.cs
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.dll
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.pdb
+C:\Users\Olorunshola.j\Desktop\dot net\Csharp\simpleCalculator\simpleCalculator\obj\Debug\netcoreapp3.1\simpleCalculator.genruntimeconfig.cache
